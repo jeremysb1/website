@@ -1,8 +1,8 @@
-# A Jeremy Website
+# Jeremy's Website
 
-What in the world is a Jeremy Website?
+What in the world is Jeremy's Website?
 
-Glad you asked. 
+I'm glad you asked. 
 
 It's a website that will probably hurt your feelings because you don't have one just like it.
 
