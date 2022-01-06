@@ -105,7 +105,7 @@ nav [class*="fa-"]:hover {
   }
 }
 
-/* intro styles */
+/* intro section styles */
 #intro {
     padding-bottom: 10rem;
   }
@@ -131,6 +131,8 @@ nav [class*="fa-"]:hover {
 #intro h2 {
   font-size: 4rem;
 }
+
+/* contact section styles */
 
 #contact {
   width: 400px;
