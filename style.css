@@ -87,7 +87,8 @@ nav a {
   display: block;
 }
 
-nav a:hover {
+nav a:hover,
+nav [class*="fa-"]:hover {
   color: var(--magenta);
 }
 
