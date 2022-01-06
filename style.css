@@ -71,6 +71,16 @@ nav li:first-child {
   text-align: center;
 }
 
+nav [class *="fa-"] {
+  font-size: 150%;
+  color: var(--aqua);
+}
+
+nav h1 [class *="fa-"] {
+  font-size: 100%;
+  color: var(--aqua);
+}
+
 nav a {
   color: white;
   text-decoration: none;
