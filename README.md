@@ -15,7 +15,7 @@ HTML and CSS only.
 
 ## Getting Started
 
-You know the drill. Fork the repository. Then clone, ideally with SSH, to your local environment.
+Fork a copy of the repository. Then clone, ideally with SSH, to your local environment.
 
 ## Roadmap
 
