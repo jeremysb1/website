@@ -7,7 +7,7 @@
 
 ## About Project
 
-I built a portfolio website with HTML and CSS to keep my skills sharp.
+A portfolio website with HTML and CSS.
 
 ## Technologies Used
 
