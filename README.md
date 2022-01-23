@@ -21,4 +21,4 @@ Fork a copy of the repository. Then clone, ideally with SSH, to your local envir
 
 - Update the projects
 - Add another way for folks to contact me
-- Spice up the design
+- Add a CSS Gradient to the background
