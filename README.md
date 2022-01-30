@@ -7,7 +7,7 @@
 
 ## About Project
 
-A portfolio website with HTML and CSS.
+A portfolio website showcasing projects and professional details about me.
 
 ## Technologies Used
 
