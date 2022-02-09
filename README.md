@@ -20,5 +20,6 @@ Fork a copy of the repository. Then clone, ideally with SSH, to your local envir
 ## Roadmap
 
 - Add Go project
+- Add Coffee App
 - Add another way for folks to contact me
 - Add a CSS Gradient to the background
