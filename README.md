@@ -21,5 +21,5 @@ Fork a copy of the repository. Then clone, ideally with SSH, to your local envir
 
 - Add Go project
 - Add Coffee App
-- Add email form for folks to contact me
+- Add email form
 - Add a CSS Gradient to the background
